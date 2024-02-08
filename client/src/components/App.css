@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.left-side {
+  background-color: #e6e6f0;
+}
+.tab {
+  border-radius: 8px;
+}
+.tab-btn:hover {
+  background-color: #212529;
+  color: #fff;
+}
+.tab-btn {
+  border-radius: 8px;
+}
+.textarea {
+  background-color: #212529;
+}
+.textarea:focus {
+  outline: none;
+}
+.custom-textarea {
+  background-color: #e4fafc; /* Set your desired background color */
+  border: 1px solid #ced4da; /* Add a border for visual separation */
+  color: #495057; /* Set text color */
+  padding: 10px;
+  max-height: 500px;
+}
+
+.custom-textarea:focus {
+  /* Add focus styles if needed */
+  outline: none; /* Remove the default focus outline */
+  box-shadow: none; /* Remove any box shadow on focus */
+}
+.banner {
+  text-align: center;
+  margin-top: 20%;
+  color: #d6cece;
+}
+
+.logo {
+  /* margin-right: 1rem; */
+  margin-top: -70px;
+  width: 200px;
+  margin-right: 1rem;
+}
+.heading-ai {
+  margin-top: 13px;
+  font-size: 30px;
+  margin-left: -2.5rem;
+  color: blue;
+  font-weight: bold;
+}
+.btn-copy {
+  width: 90%;
+  text-align: right;
+}
