@@ -873,7 +873,6 @@ const Textgenerate = () => {
               </div>
             )}
           </div>
-          <CopyClipboard />
         </div>
       </div>
     </div>
